@@ -1,0 +1,14 @@
+.modalError{
+  color: rgb(138, 3, 3);
+  text-align: center;
+}
+#closeModal {
+  color: #fff;
+}
+.todo.completed {
+  background: rgb(208, 208, 224)
+}
+.modal.active {
+  display: flex
+}
+
